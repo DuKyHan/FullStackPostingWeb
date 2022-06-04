@@ -7,6 +7,7 @@
 - Change password
 
 #Tools:
--FE : HTML, CSS, REACTJS
--BE : Nodejs - MYSQL
+
+- FE : HTML, CSS, REACTJS
+- BE : Nodejs - MYSQL
 - Another  support libraries: formik. sequelize, mui,...
